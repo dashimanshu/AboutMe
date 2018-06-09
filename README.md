@@ -111,14 +111,6 @@ ANNEXURE
 
 ### Key Projects Handled:
 
-**Title:			Clearing Trade Correction (.NET, C#, WCF,MSBI, MVVM, SharePoint On-Premises)**
-Client:		Ameriprise Financial (Clearing)
-Role:		Team Lead – Clearing operations
-Description: 		Clearing Trade Corraction system is built on SpiderWeb SharePoint platform. It provides facility to do all possible trade errors and reconcile. It is able to provide audit trail for IT control and follow all norms promoted by FINRA and SEC.  
-Key Result Areas:
-- 	Platform owner, responsible to manage, maintain and approve access/termination requests for this platform.
-- 	Responsible to deliver custom and OOB application on this platform.  Responsible to maintain SoD and IT controls.
-
 **Title:			SpiderWeb (.NET, C#, WCF,MSBI, SharePoint On-Premises)**
 Client:		Ameriprise Financial (Clearing)
 Role:		Team Lead – Clearing operations
