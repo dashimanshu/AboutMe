@@ -5,23 +5,23 @@ Result-oriented professional with a proven record of achievement in conceiving &
 
 # CORE COMPETENCIES
 
-    Application architecture, Technology Architecture, Business Architecture and Data Architecture.
+    Application architecture / Technology Architecture.
 
-Strong business and technical analysis background
+    Strong business and technical analysis background
 
-Expertise in Enterprise Governance, Risk and Compliance
+    Expertise in Enterprise Governance, Risk and Compliance
 
-Application Design & Development (Microsoft Stack)
+    Application Design & Development (Microsoft Stack)
 
-Semantic layer designing (Report Model / Tabular Model)
+    Semantic layer designing (Report Model / Tabular Model)
 
-Thought Leadership, Strategy Planning, Team Building  & Process Improvement 
+    Thought Leadership, Strategy Planning, Team Building  & Process Improvement 
 
-Machine Learning & AI activities (Using R,Python & Advanced Excel)
+    Machine Learning & AI activities (Using R,Python & Advanced Excel)
 
-Advance Skill of Monitors, Schedulers & data transformation tools.
+    Advance Skill of Monitors, Schedulers & data transformation tools.
 
-Performance Tuning expertise
+    Performance Tuning expertise
 
 # ACADEMIC DETAILS
 
@@ -63,7 +63,7 @@ Highlights:
 - 	Mentored & coached the project team on areas such as business processes, technical competencies & various soft skills planned and integrated the work of multiple teams on a project; provided input on team performance and reward
 - 	Translated business requirements into system needs through analysis of existing Brokerage & Clearing Eco System including 43 different system interfaces with other applications; performed this task for Ameriprise Financial Inc.
 
-PREVIOUS EXPERIENCE 
+# PREVIOUS EXPERIENCE 
 
 Jul’12-May’13	R Systems International Limited, Noida(CMM 5) as Project Leader / Solution Architect for Pre-sales & Solution Deliveries
 
@@ -73,7 +73,7 @@ Jan’07-Apr’10	Magna Infotech, Nucleus Software, OKS Span-Tech & Codex Softwa
 
 Apr’04-Dec’06		Megamind Solution Pvt. Ltd., Delhi as Software Engineer / Team Member
 
-ACTIVE CERTIFICATIONS
+# ACTIVE CERTIFICATIONS
 - 	TOGAF 9
 - 	MCTS (70-535): Architecting Microsoft Azure Solutions
 - 	MCTS (70-533): Implementing Microsoft Azure Infrastructure Solutions
@@ -81,14 +81,14 @@ ACTIVE CERTIFICATIONS
 - 	ITIL Foundation
 - 	Pursuing Prince 2 Certification
 
-PAST CERTIFICATIONS
+# PAST CERTIFICATIONS
 - 	MCTS (70-542): Microsoft Office SharePoint Server 2007 - Application Development
 - 	MCTS (70-529): Microsoft .NET Framework 2.0 - Distributed
 - 	MCTS (70-526): Microsoft .NET Framework 2.0 - Windows-based Client Development
 - 	MCTS (70-528): Microsoft .NET Framework 2.0 - Web-based Client Development 
 - 	MCTS (70-536): Microsoft .NET Framework 2.0 - Application Development Foundation 
 
-IT SKILLS
+# IT SKILLS
 
 - 	Languages / scripts such as C#, R, JavaScript, JQuery, NodeJS,Angular , React,  ASP.NET, DAX, MDX, PowerShell and XML
 - 	Object oriented design concepts and design patterns (MVP, MVC, MVVM, IoC, DI, GoF)
@@ -100,16 +100,16 @@ IT SKILLS
 - 	Third party control & tools such as Bamboo Solutions, QlickView, Toad, Telerik, Infragistics, OCR,  iTextSharp and Payment Gateways
 - 	Expert of IAM, Silverlight, Microservices, WCF, WPF and Windows Workflow Foundations
 
-PERSONAL DETAILS 
+# PERSONAL DETAILS 
 
-Date of Birth:		1st January 1982
-Address:		A-206, Shakti Apartment, Plot 18, Sector 5, Dwarka, Delhi-110075
-Visa:		B1/B2 for USA, Business Visa for Scandinavian and South Africa
+Date of Birth:	1st January 1982
+Address:		Plot 18, Sector 5, Dwarka, Delhi-110075
+Visa:		    B1/B2 for USA, Business Visa for Scandinavian and South Africa
 Language Known:	English, Hindi & Bengali
 
 ANNEXURE
 
-Key Projects Handled:
+# Key Projects Handled:
 
 Title:			Clearing Trade Correction (.NET, C#, WCF,MSBI, MVVM, SharePoint On-Premises)
 Client:		Ameriprise Financial (Clearing)
@@ -140,14 +140,11 @@ Title:			Data Collection Framework (SharePoint,C#,WCF,SOA)
 Client:		Saxo Bank - Global
 Role:		Team Lead – Web Systems
 Description: 		Lead Developer on DCF, a data collection framework which allows central management of all client data collection on all Saxo Bank SharePoint websites (both global and regional). Through a set of DCF Web Parts, onboarding flows are configured on the web sites and the data is collected and submitted to MS CRM through a set of WCF services. 
-		The framework offers the ability to manipulate flows from one central place and propagate changes in real-time to hundreds of sites and pages.
-		The framework uses interfaces to a large degree, and all components, business objects, providers and services are decoupled by the use of Unity’s dependency injection container 
+	The framework offers the ability to manipulate flows from one central place and propagate changes in real-time to hundreds of sites and pages.
+	The framework uses interfaces to a large degree, and all components, business objects, providers and services are decoupled by the use of Unity’s dependency injection container 
 
 
-
-
-
-Other Projects Handled:
+# Other Projects Handled:
 - 	Clearing Intake (SharePoint On-Premises – C#,WCF, RESTful, JQuery, Bootstrap & Datatable)
 - 	Clearing Access Management System - (WCF,WPF, MVVM, C#,SilverLight, IoC, DI, Autofac, CSLA, Caliburn.micro)
 - 	Operational Survey Framework - Dynamic & Automated (SharePoint 2013,JQuery Angular JS,, Bootstrap & SP BI Platform)
