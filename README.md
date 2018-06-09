@@ -3,7 +3,7 @@ E-mail: himanshu.das.del@gmail.com ~ Phone: 09810711105
 
 Result-oriented professional with a proven record of achievement in conceiving & implementing effective ideas; targeting top level assignments in designing & delivering the Solutions for BI & Middleware/Front End Applications, Thought Leadership & Team Building with leading organizations of repute in BFSI / Healthcare and Manufacturing domain.
 
-# CORE COMPETENCIES
+### CORE COMPETENCIES
 
     Application architecture / Technology Architecture.
 
@@ -23,7 +23,7 @@ Result-oriented professional with a proven record of achievement in conceiving &
 
     Performance Tuning expertise
 
-# ACADEMIC DETAILS
+### ACADEMIC DETAILS
 
 -	MCA from SM University with 71% in 2011	
 -	GNIIT (Software Architecture) from NIIT Ltd. with 94% in 2004 (3 years Diploma Course)
@@ -40,7 +40,7 @@ Result-oriented professional with a proven record of achievement in conceiving &
 -	Directed cross-functional & cultural teams using interactive & motivational leadership; acknowledged for coaching, guiding & mentoring a team that delivered application across various development paradigm using .NET, SharePoint, Power BI, Office 365, ASP.NET, MSBI, R, Python, PowerShell, Relational & NoSQL DB
 -	An award-winning professional with strong communication, analytical & organizational skills; well organized with a track record that demonstrates self-motivation & creativity to achieve corporate & personal goals
 
-# ORGANISATIONAL EXPERIENCE
+### ORGANISATIONAL EXPERIENCE
 
 Since Jun’13		Ameriprise Financial, Gurgaon (Fortune 500) as Team Leader – Technology for BFSI Domain
 
@@ -63,7 +63,7 @@ Highlights:
 - 	Mentored & coached the project team on areas such as business processes, technical competencies & various soft skills planned and integrated the work of multiple teams on a project; provided input on team performance and reward
 - 	Translated business requirements into system needs through analysis of existing Brokerage & Clearing Eco System including 43 different system interfaces with other applications; performed this task for Ameriprise Financial Inc.
 
-# PREVIOUS EXPERIENCE 
+### PREVIOUS EXPERIENCE 
 
 Jul’12-May’13	R Systems International Limited, Noida(CMM 5) as Project Leader / Solution Architect for Pre-sales & Solution Deliveries
 
@@ -73,7 +73,7 @@ Jan’07-Apr’10	Magna Infotech, Nucleus Software, OKS Span-Tech & Codex Softwa
 
 Apr’04-Dec’06		Megamind Solution Pvt. Ltd., Delhi as Software Engineer / Team Member
 
-# ACTIVE CERTIFICATIONS
+### ACTIVE CERTIFICATIONS
 - 	TOGAF 9
 - 	MCTS (70-535): Architecting Microsoft Azure Solutions
 - 	MCTS (70-533): Implementing Microsoft Azure Infrastructure Solutions
@@ -81,14 +81,14 @@ Apr’04-Dec’06		Megamind Solution Pvt. Ltd., Delhi as Software Engineer / Tea
 - 	ITIL Foundation
 - 	Pursuing Prince 2 Certification
 
-# PAST CERTIFICATIONS
+### PAST CERTIFICATIONS
 - 	MCTS (70-542): Microsoft Office SharePoint Server 2007 - Application Development
 - 	MCTS (70-529): Microsoft .NET Framework 2.0 - Distributed
 - 	MCTS (70-526): Microsoft .NET Framework 2.0 - Windows-based Client Development
 - 	MCTS (70-528): Microsoft .NET Framework 2.0 - Web-based Client Development 
 - 	MCTS (70-536): Microsoft .NET Framework 2.0 - Application Development Foundation 
 
-# IT SKILLS
+### IT SKILLS
 
 - 	Languages / scripts such as C#, R, JavaScript, JQuery, NodeJS,Angular , React,  ASP.NET, DAX, MDX, PowerShell and XML
 - 	Object oriented design concepts and design patterns (MVP, MVC, MVVM, IoC, DI, GoF)
@@ -100,7 +100,7 @@ Apr’04-Dec’06		Megamind Solution Pvt. Ltd., Delhi as Software Engineer / Tea
 - 	Third party control & tools such as Bamboo Solutions, QlickView, Toad, Telerik, Infragistics, OCR,  iTextSharp and Payment Gateways
 - 	Expert of IAM, Silverlight, Microservices, WCF, WPF and Windows Workflow Foundations
 
-# PERSONAL DETAILS 
+### PERSONAL DETAILS 
 
 Date of Birth:	1st January 1982
 Address:		Plot 18, Sector 5, Dwarka, Delhi-110075
@@ -109,7 +109,7 @@ Language Known:	English, Hindi & Bengali
 
 ANNEXURE
 
-# Key Projects Handled:
+### Key Projects Handled:
 
 Title:			Clearing Trade Correction (.NET, C#, WCF,MSBI, MVVM, SharePoint On-Premises)
 Client:		Ameriprise Financial (Clearing)
@@ -144,7 +144,7 @@ Description: 		Lead Developer on DCF, a data collection framework which allows c
 	The framework uses interfaces to a large degree, and all components, business objects, providers and services are decoupled by the use of Unity’s dependency injection container 
 
 
-# Other Projects Handled:
+### Other Projects Handled:
 - 	Clearing Intake (SharePoint On-Premises – C#,WCF, RESTful, JQuery, Bootstrap & Datatable)
 - 	Clearing Access Management System - (WCF,WPF, MVVM, C#,SilverLight, IoC, DI, Autofac, CSLA, Caliburn.micro)
 - 	Operational Survey Framework - Dynamic & Automated (SharePoint 2013,JQuery Angular JS,, Bootstrap & SP BI Platform)
