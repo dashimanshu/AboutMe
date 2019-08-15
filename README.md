@@ -1,7 +1,5 @@
 # HIMANSHU DAS , TOGAF 9.2, AWS:SAP, MCTS, ITIL
--	E-mail: himanshu.das@sturdyhub.com
--	Website: http://himanshudas.in/
--	Phone: 09810711105/7982161948
+E-mail: himanshu.das.del@gmail.com ~ Phone: 09810711105/7982161948
 
 Result-oriented Enterprise architect with a proven record of achievement in conceiving & implementing effective business solutions; targeting top level assignments in designing & delivering the Solutions like end to end customized or “off the shelf” ERP/ CMS/ LMS/ HRMS/ LOB solution implementations, Thought Leadership & Team Building with leading organizations of repute in BFSI, Healthcare, Digital Media and Manufacturing domain.
 
