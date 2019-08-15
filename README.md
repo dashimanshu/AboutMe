@@ -5,16 +5,16 @@ Result-oriented Enterprise architect with a proven record of achievement in conc
 
 ### CORE COMPETENCIES
 
-    Business & Technology Architecture
-    IT Strategy and Roadmap
-    AWS, GCP, Azure, Office 365 and SharePoint based solutions
-    ERP, Analytics and Process automations
-    .NET, Java, Angular, Python based solutions
-    Strong business and technical analysis background
-    Expertise in Enterprise Governance, Risk and Compliance
-    Thought Leadership, Strategy Planning, Team Building & Process Improvement
-    Advanced Skill of Monitors, Schedulers & data transformation tools.
-    Performance Tuning expertise
+-	Business & Technology Architecture
+-	IT Strategy and Roadmap
+-	AWS, GCP, Azure, Office 365 and SharePoint based solutions
+-	ERP, Analytics and Process automations
+-	.NET, Java, Angular, Python based solutions
+-	Strong business and technical analysis background
+-	Expertise in Enterprise Governance, Risk and Compliance
+-	Thought Leadership, Strategy Planning, Team Building & Process Improvement
+-	Advanced Skill of Monitors, Schedulers & data transformation tools.
+-	Performance Tuning expertise
 
 ### ACADEMIC DETAILS
 
